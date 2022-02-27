@@ -1,4 +1,4 @@
-# cpu-features-assembly
+# CPU Features Assembly
 
 Assembly x86-64 Code that prints the cpu featers of your computer.
 
